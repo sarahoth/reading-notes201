@@ -1,5 +1,5 @@
 # Code 201 Reading Notes
-
+*This is the table for reading in class 201*
 <table>
   <tr>
     <th>Name</th>
