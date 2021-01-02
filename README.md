@@ -9,7 +9,7 @@
   <tr>
     <td>class-01</td>
     <td>2/1/2020</td>
-    <td><a href="">here</a></td>
+    <td><a href="https://sarahoth.github.io/reading-notes201/class-01">here</a></td>
   </tr>
   <tr>
     <td>class-02</td>
