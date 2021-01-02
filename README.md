@@ -1,4 +1,5 @@
 # Code 201 Reading Notes
+*this table for all reading in class 201*
 
 <table>
   <tr>
