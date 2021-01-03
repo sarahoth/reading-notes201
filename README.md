@@ -1,10 +1,7 @@
 # Code 201 Reading Notes
-<<<<<<< HEAD
-*This is the table for reading in class 201*
-=======
-*this table for all reading in class 201*
 
->>>>>>> 40f5b8a11e9c41aff21bed9cdb4aa0bfff55ec06
+*This is the table for reading in class 201*
+
 <table>
   <tr>
     <th>Name</th>
