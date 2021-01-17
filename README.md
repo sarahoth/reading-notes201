@@ -47,7 +47,7 @@
     <tr>
     <td>class-08</td>
     <td>8/1/2020</td>
-    <td><a href="">here</a></td>
+    <td><a href="https://sarahoth.github.io/reading-notes201/class-08">here</a></td>
   </tr>
 
    <tr>
